@@ -1,0 +1,7 @@
+Uppgift 2:
+Hålla sig till principen "smart model, thin controller, dumb view", så att model sköter all hantering av data, controller enbart sköter kommunikation mellan
+användare och program och view enbart sköter "vyn".
+
+Rätta till ovanstående.
+
+Uppgift 4:
